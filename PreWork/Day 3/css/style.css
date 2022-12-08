@@ -1,0 +1,52 @@
+<style type="text/css">	
+	p{
+		font-size: xx-large;
+	}
+	h3{
+		color:blue;
+	}
+	#joseHobbies{
+		color: yellow;
+	}
+	.hobbiesList{
+		text-decoration: underline;
+	}
+	span{
+		color: darkred;
+		font-size: 50pt;
+		font-family: arial;
+	}
+	#div1{
+		background-color: yellow;
+	}
+	#div2{
+		background-color: darkblue;
+	}
+	#div3{
+		background-color: darkmagenta;
+	}
+	#div4{
+		background-color: darksalmon;
+	}
+	#div1, #div2, #div3, #div4 {
+		border: dashed;
+	}
+	form{
+		padding: 15px;
+		background-color: white;
+		font-style: italic;
+		border-style: solid;
+		font-weight: 900px;
+	}
+	input[type=button] {
+		color: black;
+		background-color: rgb(0,200,0);
+		padding: 5px;
+	}
+	body{
+		background-color: lightseagreen;
+	}
+	a{
+		color: purple;
+	}
+</style>
